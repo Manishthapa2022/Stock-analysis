@@ -16,5 +16,8 @@ Based on the above, the following observations were made
 --- 
 ## Summary:
 ### Advantages and Disadvantages of using the Refactored code
-The advantages of using the refactored code are that it can be used on a much larger data set and the time taken for the execution of the code is relatively smaller, whereas on the other hand lot of information needs to added including additional arrays and variables because of the larger data sets that eventually can corrupt the previous code.  
+The advantages of using the refactored code are that it can be used on a much larger data set and the time taken for the execution of the code is relatively smaller, whereas on the other hand lot of information needs to added including additional arrays and variables because of the larger data sets that eventually can corrupt the previous code by creating more room for error.   
 ### Advantages and Disadvantages of the Original and Refactored code
+#### Advantages and Disadvantages of Orignal code
+
+#### Advantages and Disadvantages of Refactored code
