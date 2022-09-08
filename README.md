@@ -209,6 +209,8 @@ Based on the above, the following observations were made
 - While using the refactored code, several redundancies were removed and several variables were assigned dmensions at the begining of the code. 
 - ENPH at 81.9% and RUN a 84% were the only two stocks which had the positive returns whereas JKS at 60.5% and DQ at 62.6% had the lowest return for 2018.
 - The total run time for refactored code for 2018 was 0.0390625 secs and was 0.3242188 secs for the original code.
+##### Room for Improvement
+- Instead of hardcoding the numbers all along the code, they could have been assigned to variables at the beginning of the code for easy editions in case changes to the data set were made.  
 --- 
 ## Summary:
 ### Advantages and Disadvantages of using the Refactored code
