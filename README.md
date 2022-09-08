@@ -4,9 +4,9 @@ The main purpose o the project is to provide Steve the Total daily Volume and th
 ## Results:
 The following table illustrates for the portfolio of stocks using Original and Refactored code for 2018.  
 
-###Original code
+##### Original code
 ![2018 Green Stock analysis with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/Resource/Green_Stocks_2018.png)
-###Refactored code
+##### Refactored code
 ![2018 VBA Challenge with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/Resource/VBA_Challenge_2018.PNG)
 ---
 Based on the above, the following observations were made
