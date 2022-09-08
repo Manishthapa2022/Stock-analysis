@@ -206,6 +206,7 @@ End Sub
 ![2018 VBA Challenge with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/Resource/VBA_Challenge_2018.PNG)
 ---
 Based on the above, the following observations were made
+- While using the refactored code, several redundancies were removed and several variables were assigned dmensions at the begining of the code. The code could have been made better by assigning numbers to variables instead of hardcoding them. 
 - ENPH at 81.9% and RUN a 84% were the only two stocks which had the positive returns whereas JKS at 60.5% and DQ at 62.6% had the lowest return for 2018.
 - The total run time for refactored code for 2018 was 0.0390625 secs and was 0.3242188 secs for the original code.
 --- 
