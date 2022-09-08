@@ -2,11 +2,11 @@
 ## Overview of the Project
 The main purpose o the project is to provide Steve the Total daily Volume and the Yearly return for a portfolio of stocks so that he can advise his parents to invest accordingly for better returns. The analysis was carried out both using a original and a refactored code. The refactored code was used specifically so that Steve could add more data sets to it which he could not to the original code. 
 ## Results:
-The following table illustrates for the portfolio of stocks for both 2017 and 2018. 
+The following table illustrates for the portfolio of stocks using Original and Refactored code for 2018.  
 
-
+###Original code
 ![2018 Green Stock analysis with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/Resource/Green_Stocks_2018.png)
-
+###Refactored code
 ![2018 VBA Challenge with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/Resource/VBA_Challenge_2018.PNG)
 ---
 Based on the above, the following observations were made
