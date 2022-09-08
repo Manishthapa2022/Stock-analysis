@@ -5,9 +5,9 @@ The main purpose o the project is to provide Steve the Total daily Volume and th
 The following table illustrates for the portfolio of stocks for both 2017 and 2018. 
 
 
-![2017 Stock analysis with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/VBA_Challenge_2017.PNG)
+![2018 Green Stock analysis with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/Resource/Green_Stocks_2018.png)
 
-![2018 Stock analysis with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/VBA_Challenge_2018.PNG)
+![2018 VBA Challenge with Run time](https://github.com/Manishthapa2022/Stock-analysis/blob/main/Resource/VBA_Challenge_2018.PNG)
 ---
 Based on the above, the following observations were made
 - ENPH at 81.9% and RUN a 84% were the only two stocks which had the positive returns whereas JKS at 60.5% and DQ at 62.6% had the lowest return for both 2017 and 2018.
